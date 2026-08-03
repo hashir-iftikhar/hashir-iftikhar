@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineering student building bots, automations, and AI-powered apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86FF&center=true&vCenter=true&width=560&lines=BS+Artificial+Intelligence+%40+PAF-IAST;Building+AI+bots+%26+automation+workflows;Currently%3A+IT+Intern+%40+Netkom+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86FF&center=true&vCenter=true&width=560&lines=BS+Artificial+Intelligence+%40+PAF-IAST;Building+AI+bots+%26+automation+workflows;Currently%3A+Digital+Automation+Intern+%40+Netkom+Technologies" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ### 🧭 About Me
 
 - 🎓 4th-semester **BS Artificial Intelligence** student at **PAF-IAST**
-- 💼 Currently interning (IT) at **Netkom Technologies**, an Islamabad-based telecom & network infrastructure company
+- 💼 Currently interning as Digital Automation Intern at **Netkom Technologies**, an Islamabad-based telecom & network infrastructure company
 - 🌱 Self-learning through Harvard's **CS50x, CS50 AI, CS50 Python**
 - 💬 Ask me about AI bots, chatbots, n8n automations, or LLM-powered apps
 - 📫 Reach me via [my portfolio](https://hashir-iftikhar.github.io)
