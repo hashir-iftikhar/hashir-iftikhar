@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineering student building bots, automations, and AI-powered apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86FF&center=true&vCenter=true&width=560&lines=BS+Artificial+Intelligence+%40+PAF-IAST;Building+AI+bots+%26+automation+workflows;Currently%3A+Digital+Automation+Intern+%40+Netkom+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86FF&center=true&vCenter=true&width=700&lines=BS+Artificial+Intelligence+%40+PAF-IAST;Building+AI+bots+%26+automation+workflows;Digital+Automation+Intern+%40+Netkom" alt="Typing SVG" />
 </p>
 
 ---
