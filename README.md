@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hashir Iftikhar</h1>
+<h1 align="center">Hi , I'm Hashir Iftikhar</h1>
 <h3 align="center">AI Engineering student building bots, automations, and AI-powered apps</h3>
 
 <p align="center">
@@ -7,17 +7,17 @@
 
 ---
 
-### 🧭 About Me
+###  About Me
 
-- 🎓 4th-semester **BS Artificial Intelligence** student at **PAF-IAST**
-- 💼 Currently a **Digital Automation Intern** at **Netkom Technologies**, an Islamabad-based telecom & network infrastructure company
-- 🌱 Self-learning through Harvard's **CS50x, CS50 AI, CS50 Python**
-- 💬 Ask me about AI bots, chatbots, n8n automations, or LLM-powered apps
-- 📫 Reach me via [my portfolio](https://hashir-iftikhar.github.io)
+-  4th-semester **BS Artificial Intelligence** student at **PAF-IAST**
+-  Currently a **Digital Automation Intern** at **Netkom Technologies**, an Islamabad-based telecom & network infrastructure company
+-  Self-learning through Harvard's **CS50x, CS50 AI, CS50 Python**
+-  Ask me about AI bots, chatbots, n8n automations, or LLM-powered apps
+-  Reach me via [my portfolio](https://hashir-iftikhar.github.io)
 
 ---
 
-### 🧰 Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -35,17 +35,18 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description |
 |---|---|
-| 🏎️ **F1 AI Analyst Pipeline** | End-to-end n8n workflow using Jolpica-F1 API, Claude Sonnet/Haiku & Supabase, with race-day branching logic and multi-platform publishing (Facebook, Discord, Gmail, Telegram) |
-| 🗄️ **Unified Sales Data Warehouse** | SQL Server / T-SQL warehouse using Medallion Architecture (Bronze → Silver → Gold layers), with a full IEEE-format report |
-| 🗣️ **AI Voice & Text Assistant** | Python assistant built with the Gemini API and speech recognition |
+|  **F1 AI Analyst Pipeline** | End-to-end n8n workflow using Jolpica-F1 API, Claude Sonnet/Haiku & Supabase, with race-day branching logic and multi-platform publishing (Facebook, Discord, Gmail, Telegram) |
+|  **Orate** | Public speaking practice web app (Flask + Supabase/PostgreSQL) with in-browser speech-to-text, transcript analysis (filler word count, WPM, fluency & readability scoring), and a session/diary/history flow |
+|  **Unified Sales Data Warehouse** | SQL Server / T-SQL warehouse using Medallion Architecture (Bronze → Silver → Gold layers), with a full IEEE-format report |
+|  **AI Voice & Text Assistant** | Python assistant built with the Gemini API and speech recognition |
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=hashir-iftikhar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -53,7 +54,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashir-iftikhar&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashir-iftikhar&layout=compact&theme=tokyonight&hide_border=true&hide=javascript,html,css" />
 </p>
 
 ---
